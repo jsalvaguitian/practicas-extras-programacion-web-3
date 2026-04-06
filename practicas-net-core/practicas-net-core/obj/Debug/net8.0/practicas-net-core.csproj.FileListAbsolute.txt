@@ -12,3 +12,4 @@ C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-w
 C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\practicas-net-core\practicas-net-core\obj\Debug\net8.0\practicas-net-core.pdb
 C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\practicas-net-core\practicas-net-core\obj\Debug\net8.0\practicas-net-core.genruntimeconfig.cache
 C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\practicas-net-core\practicas-net-core\obj\Debug\net8.0\ref\practicas-net-core.dll
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\practicas-net-core\practicas-net-core\obj\Debug\net8.0\practicas-net-core.sourcelink.json

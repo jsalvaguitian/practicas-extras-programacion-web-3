@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("practicas-net-core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+962feb623559468c94629222a1f6e3b859a36039")]
 [assembly: System.Reflection.AssemblyProductAttribute("practicas-net-core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("practicas-net-core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
