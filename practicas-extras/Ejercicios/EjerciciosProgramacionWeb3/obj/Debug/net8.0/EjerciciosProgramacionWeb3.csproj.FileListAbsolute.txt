@@ -1,0 +1,15 @@
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Ejercicios\EjerciciosProgramacionWeb3\bin\Debug\net8.0\EjerciciosProgramacionWeb3.exe
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Ejercicios\EjerciciosProgramacionWeb3\bin\Debug\net8.0\EjerciciosProgramacionWeb3.deps.json
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Ejercicios\EjerciciosProgramacionWeb3\bin\Debug\net8.0\EjerciciosProgramacionWeb3.runtimeconfig.json
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Ejercicios\EjerciciosProgramacionWeb3\bin\Debug\net8.0\EjerciciosProgramacionWeb3.dll
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Ejercicios\EjerciciosProgramacionWeb3\bin\Debug\net8.0\EjerciciosProgramacionWeb3.pdb
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Ejercicios\EjerciciosProgramacionWeb3\obj\Debug\net8.0\EjerciciosProgramacionWeb3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Ejercicios\EjerciciosProgramacionWeb3\obj\Debug\net8.0\EjerciciosProgramacionWeb3.AssemblyInfoInputs.cache
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Ejercicios\EjerciciosProgramacionWeb3\obj\Debug\net8.0\EjerciciosProgramacionWeb3.AssemblyInfo.cs
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Ejercicios\EjerciciosProgramacionWeb3\obj\Debug\net8.0\EjerciciosProgramacionWeb3.csproj.CoreCompileInputs.cache
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Ejercicios\EjerciciosProgramacionWeb3\obj\Debug\net8.0\EjerciciosProgramacionWeb3.sourcelink.json
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Ejercicios\EjerciciosProgramacionWeb3\obj\Debug\net8.0\EjerciciosProgramacionWeb3.dll
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Ejercicios\EjerciciosProgramacionWeb3\obj\Debug\net8.0\refint\EjerciciosProgramacionWeb3.dll
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Ejercicios\EjerciciosProgramacionWeb3\obj\Debug\net8.0\EjerciciosProgramacionWeb3.pdb
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Ejercicios\EjerciciosProgramacionWeb3\obj\Debug\net8.0\EjerciciosProgramacionWeb3.genruntimeconfig.cache
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Ejercicios\EjerciciosProgramacionWeb3\obj\Debug\net8.0\ref\EjerciciosProgramacionWeb3.dll

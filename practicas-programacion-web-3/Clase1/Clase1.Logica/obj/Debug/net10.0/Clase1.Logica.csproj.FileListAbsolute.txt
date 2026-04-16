@@ -1,0 +1,12 @@
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\practicas-programacion-web-3\Clase1\Clase1.Logica\bin\Debug\net10.0\Clase1.Logica.deps.json
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\practicas-programacion-web-3\Clase1\Clase1.Logica\bin\Debug\net10.0\Clase1.Logica.dll
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\practicas-programacion-web-3\Clase1\Clase1.Logica\bin\Debug\net10.0\Clase1.Logica.pdb
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\practicas-programacion-web-3\Clase1\Clase1.Logica\obj\Debug\net10.0\Clase1.Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\practicas-programacion-web-3\Clase1\Clase1.Logica\obj\Debug\net10.0\Clase1.Logica.AssemblyInfoInputs.cache
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\practicas-programacion-web-3\Clase1\Clase1.Logica\obj\Debug\net10.0\Clase1.Logica.AssemblyInfo.cs
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\practicas-programacion-web-3\Clase1\Clase1.Logica\obj\Debug\net10.0\Clase1.Logica.csproj.CoreCompileInputs.cache
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\practicas-programacion-web-3\Clase1\Clase1.Logica\obj\Debug\net10.0\Clase1.Logica.sourcelink.json
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\practicas-programacion-web-3\Clase1\Clase1.Logica\obj\Debug\net10.0\Clase1.Logica.dll
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\practicas-programacion-web-3\Clase1\Clase1.Logica\obj\Debug\net10.0\refint\Clase1.Logica.dll
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\practicas-programacion-web-3\Clase1\Clase1.Logica\obj\Debug\net10.0\Clase1.Logica.pdb
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\practicas-programacion-web-3\Clase1\Clase1.Logica\obj\Debug\net10.0\ref\Clase1.Logica.dll
