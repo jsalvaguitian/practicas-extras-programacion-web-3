@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net10.0": {}
+    "net10.0": {
+      "Clase1.Logica/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/Clase1.Logica.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Clase1.Logica.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Clase1.Logica/1.0.0": {
+      "type": "project",
+      "path": "../Clase1.Logica/Clase1.Logica.csproj",
+      "msbuildProject": "../Clase1.Logica/Clase1.Logica.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net10.0": []
+    "net10.0": [
+      "Clase1.Logica >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\belen\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\belen\\Documents\\Jesica\\Unlam\\workspace-vsc\\practicas-ext-programacion-web3\\practicas-programacion-web-3\\Clase1\\Clase1.Logica\\Clase1.Logica.csproj": {
+              "projectPath": "C:\\Users\\belen\\Documents\\Jesica\\Unlam\\workspace-vsc\\practicas-ext-programacion-web3\\practicas-programacion-web-3\\Clase1\\Clase1.Logica\\Clase1.Logica.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

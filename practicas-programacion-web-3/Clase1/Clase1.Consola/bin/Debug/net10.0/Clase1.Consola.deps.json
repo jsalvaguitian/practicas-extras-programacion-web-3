@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v10.0": {
       "Clase1.Consola/1.0.0": {
+        "dependencies": {
+          "Clase1.Logica": "1.0.0"
+        },
         "runtime": {
           "Clase1.Consola.dll": {}
+        }
+      },
+      "Clase1.Logica/1.0.0": {
+        "runtime": {
+          "Clase1.Logica.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "Clase1.Consola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Clase1.Logica/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

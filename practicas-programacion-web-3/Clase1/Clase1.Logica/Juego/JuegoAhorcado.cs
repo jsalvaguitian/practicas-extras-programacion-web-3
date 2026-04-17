@@ -20,11 +20,11 @@ public class JuegoAhorcado : IJuegoAhorcado
     public bool IsPerdido => IntentosRestantes <= 0 && !IsGanado;
 
     //Constructor
-    public JuegoAhorcado(string palabrasecreta, int intentosMaximos = 6)
+    public JuegoAhorcado(string palabraSecreta, int intentosMaximos = 6)
     {
         if(string.IsNullOrWhiteSpace(palabraSecreta)) 
             throw new ArgumentException("La palabra secreta no puede estar vacia", nameof(palabraSecreta));
-        palabraSecreta = palabrasecreta.ToLowerInvariant();
+        this.palabraSecreta = palabraSecreta.ToLowerInvariant();
         IntentosRestantes = intentosMaximos;
     }
     public bool Adivinar(char letra)

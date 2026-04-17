@@ -13,3 +13,7 @@ C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-w
 C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\practicas-programacion-web-3\Clase1\Clase1.Consola\obj\Debug\net10.0\Clase1.Consola.pdb
 C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\practicas-programacion-web-3\Clase1\Clase1.Consola\obj\Debug\net10.0\Clase1.Consola.genruntimeconfig.cache
 C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\practicas-programacion-web-3\Clase1\Clase1.Consola\obj\Debug\net10.0\ref\Clase1.Consola.dll
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\practicas-programacion-web-3\Clase1\Clase1.Consola\bin\Debug\net10.0\Clase1.Logica.dll
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\practicas-programacion-web-3\Clase1\Clase1.Consola\bin\Debug\net10.0\Clase1.Logica.pdb
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\practicas-programacion-web-3\Clase1\Clase1.Consola\obj\Debug\net10.0\Clase1.Consola.csproj.AssemblyReference.cache
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\practicas-programacion-web-3\Clase1\Clase1.Consola\obj\Debug\net10.0\Clase1.C.058CE620.Up2Date
