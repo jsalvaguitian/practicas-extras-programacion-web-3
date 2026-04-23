@@ -1,0 +1,17 @@
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Clase2\Clase2_WindowsForm\obj\Debug\net8.0-windows\Clase2_WindowsForm.Form1.resources
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Clase2\Clase2_WindowsForm\obj\Debug\net8.0-windows\Clase2_WindowsForm.csproj.GenerateResource.cache
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Clase2\Clase2_WindowsForm\obj\Debug\net8.0-windows\Clase2_WindowsForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Clase2\Clase2_WindowsForm\obj\Debug\net8.0-windows\Clase2_WindowsForm.AssemblyInfoInputs.cache
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Clase2\Clase2_WindowsForm\obj\Debug\net8.0-windows\Clase2_WindowsForm.AssemblyInfo.cs
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Clase2\Clase2_WindowsForm\obj\Debug\net8.0-windows\Clase2_WindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Clase2\Clase2_WindowsForm\obj\Debug\net8.0-windows\Clase2_WindowsForm.sourcelink.json
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Clase2\Clase2_WindowsForm\bin\Debug\net8.0-windows\Clase2_WindowsForm.exe
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Clase2\Clase2_WindowsForm\bin\Debug\net8.0-windows\Clase2_WindowsForm.deps.json
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Clase2\Clase2_WindowsForm\bin\Debug\net8.0-windows\Clase2_WindowsForm.runtimeconfig.json
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Clase2\Clase2_WindowsForm\bin\Debug\net8.0-windows\Clase2_WindowsForm.dll
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Clase2\Clase2_WindowsForm\bin\Debug\net8.0-windows\Clase2_WindowsForm.pdb
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Clase2\Clase2_WindowsForm\obj\Debug\net8.0-windows\Clase2_WindowsForm.dll
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Clase2\Clase2_WindowsForm\obj\Debug\net8.0-windows\refint\Clase2_WindowsForm.dll
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Clase2\Clase2_WindowsForm\obj\Debug\net8.0-windows\Clase2_WindowsForm.pdb
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Clase2\Clase2_WindowsForm\obj\Debug\net8.0-windows\Clase2_WindowsForm.genruntimeconfig.cache
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Clase2\Clase2_WindowsForm\obj\Debug\net8.0-windows\ref\Clase2_WindowsForm.dll

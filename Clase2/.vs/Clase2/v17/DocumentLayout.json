@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\belen\\Documents\\Jesica\\Unlam\\workspace-vsc\\practicas-ext-programacion-web3\\Clase2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F65A93A-7040-4E77-9EBF-E87904AE506F}|Clase2_WindowsForm\\Clase2_WindowsForm.csproj|c:\\users\\belen\\documents\\jesica\\unlam\\workspace-vsc\\practicas-ext-programacion-web3\\clase2\\clase2_windowsform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F65A93A-7040-4E77-9EBF-E87904AE506F}|Clase2_WindowsForm\\Clase2_WindowsForm.csproj|solutionrelative:clase2_windowsform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F65A93A-7040-4E77-9EBF-E87904AE506F}|Clase2_WindowsForm\\Clase2_WindowsForm.csproj|c:\\users\\belen\\documents\\jesica\\unlam\\workspace-vsc\\practicas-ext-programacion-web3\\clase2\\clase2_windowsform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F65A93A-7040-4E77-9EBF-E87904AE506F}|Clase2_WindowsForm\\Clase2_WindowsForm.csproj|solutionrelative:clase2_windowsform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F65A93A-7040-4E77-9EBF-E87904AE506F}|Clase2_WindowsForm\\Clase2_WindowsForm.csproj|c:\\users\\belen\\documents\\jesica\\unlam\\workspace-vsc\\practicas-ext-programacion-web3\\clase2\\clase2_windowsform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F65A93A-7040-4E77-9EBF-E87904AE506F}|Clase2_WindowsForm\\Clase2_WindowsForm.csproj|solutionrelative:clase2_windowsform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F65A93A-7040-4E77-9EBF-E87904AE506F}|Clase2_WindowsForm\\Clase2_WindowsForm.csproj|C:\\Users\\belen\\Documents\\Jesica\\Unlam\\workspace-vsc\\practicas-ext-programacion-web3\\Clase2\\clase2_windowsform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F65A93A-7040-4E77-9EBF-E87904AE506F}|Clase2_WindowsForm\\Clase2_WindowsForm.csproj|solutionrelative:clase2_windowsform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\belen\\Documents\\Jesica\\Unlam\\workspace-vsc\\practicas-ext-programacion-web3\\Clase2\\Clase2_WindowsForm\\Program.cs",
+              "RelativeDocumentMoniker": "Clase2_WindowsForm\\Program.cs",
+              "ToolTip": "C:\\Users\\belen\\Documents\\Jesica\\Unlam\\workspace-vsc\\practicas-ext-programacion-web3\\Clase2\\Clase2_WindowsForm\\Program.cs",
+              "RelativeToolTip": "Clase2_WindowsForm\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:45:36.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\belen\\Documents\\Jesica\\Unlam\\workspace-vsc\\practicas-ext-programacion-web3\\Clase2\\Clase2_WindowsForm\\Form1.cs",
+              "RelativeDocumentMoniker": "Clase2_WindowsForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\belen\\Documents\\Jesica\\Unlam\\workspace-vsc\\practicas-ext-programacion-web3\\Clase2\\Clase2_WindowsForm\\Form1.cs",
+              "RelativeToolTip": "Clase2_WindowsForm\\Form1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T07:14:23.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\belen\\Documents\\Jesica\\Unlam\\workspace-vsc\\practicas-ext-programacion-web3\\Clase2\\Clase2_WindowsForm\\Form1.cs",
+              "RelativeDocumentMoniker": "Clase2_WindowsForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\belen\\Documents\\Jesica\\Unlam\\workspace-vsc\\practicas-ext-programacion-web3\\Clase2\\Clase2_WindowsForm\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Clase2_WindowsForm\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:13:43.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\belen\\Documents\\Jesica\\Unlam\\workspace-vsc\\practicas-ext-programacion-web3\\Clase2\\Clase2_WindowsForm\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Clase2_WindowsForm\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\belen\\Documents\\Jesica\\Unlam\\workspace-vsc\\practicas-ext-programacion-web3\\Clase2\\Clase2_WindowsForm\\Form1.Designer.cs",
+              "RelativeToolTip": "Clase2_WindowsForm\\Form1.Designer.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAAADwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T06:10:37.286Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
