@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "Clase2_WindowsForm\\Clase2_WindowsForm.csproj",
+        "Action": "StartWithoutDebugging"
+      },
+      {
+        "Path": "API_Licencia\\API_Licencia.csproj",
+        "Action": "StartWithoutDebugging"
+      }
+    ]
+  }
+]

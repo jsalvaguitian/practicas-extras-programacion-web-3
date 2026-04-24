@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\belen\\Documents\\Jesica\\Unlam\\workspace-vsc\\practicas-ext-programacion-web3\\Clase2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F65A93A-7040-4E77-9EBF-E87904AE506F}|Clase2_WindowsForm\\Clase2_WindowsForm.csproj|c:\\users\\belen\\documents\\jesica\\unlam\\workspace-vsc\\practicas-ext-programacion-web3\\clase2\\clase2_windowsform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F65A93A-7040-4E77-9EBF-E87904AE506F}|Clase2_WindowsForm\\Clase2_WindowsForm.csproj|solutionrelative:clase2_windowsform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F65A93A-7040-4E77-9EBF-E87904AE506F}|Clase2_WindowsForm\\Clase2_WindowsForm.csproj|c:\\users\\belen\\documents\\jesica\\unlam\\workspace-vsc\\practicas-ext-programacion-web3\\clase2\\clase2_windowsform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F65A93A-7040-4E77-9EBF-E87904AE506F}|Clase2_WindowsForm\\Clase2_WindowsForm.csproj|solutionrelative:clase2_windowsform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC83DC5-3B1C-4FF0-967E-22EEA4A9BF63}|Servicio\\Servicio.csproj|c:\\users\\belen\\documents\\jesica\\unlam\\workspace-vsc\\practicas-ext-programacion-web3\\clase2\\servicio\\licenciaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC83DC5-3B1C-4FF0-967E-22EEA4A9BF63}|Servicio\\Servicio.csproj|solutionrelative:servicio\\licenciaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE5E209-1A36-4EC5-86FB-DCD63134952C}|API_Licencia\\API_Licencia.csproj|c:\\users\\belen\\documents\\jesica\\unlam\\workspace-vsc\\practicas-ext-programacion-web3\\clase2\\api_licencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAE5E209-1A36-4EC5-86FB-DCD63134952C}|API_Licencia\\API_Licencia.csproj|solutionrelative:api_licencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE5E209-1A36-4EC5-86FB-DCD63134952C}|API_Licencia\\API_Licencia.csproj|c:\\users\\belen\\documents\\jesica\\unlam\\workspace-vsc\\practicas-ext-programacion-web3\\clase2\\api_licencia\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAE5E209-1A36-4EC5-86FB-DCD63134952C}|API_Licencia\\API_Licencia.csproj|solutionrelative:api_licencia\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F65A93A-7040-4E77-9EBF-E87904AE506F}|Clase2_WindowsForm\\Clase2_WindowsForm.csproj|c:\\users\\belen\\documents\\jesica\\unlam\\workspace-vsc\\practicas-ext-programacion-web3\\clase2\\clase2_windowsform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F65A93A-7040-4E77-9EBF-E87904AE506F}|Clase2_WindowsForm\\Clase2_WindowsForm.csproj|solutionrelative:clase2_windowsform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCB2D57-1B23-419A-A5B4-1F1732AFFE03}|Entidad\\Entidad.csproj|c:\\users\\belen\\documents\\jesica\\unlam\\workspace-vsc\\practicas-ext-programacion-web3\\clase2\\entidad\\licencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BCB2D57-1B23-419A-A5B4-1F1732AFFE03}|Entidad\\Entidad.csproj|solutionrelative:entidad\\licencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F65A93A-7040-4E77-9EBF-E87904AE506F}|Clase2_WindowsForm\\Clase2_WindowsForm.csproj|c:\\users\\belen\\documents\\jesica\\unlam\\workspace-vsc\\practicas-ext-programacion-web3\\clase2\\clase2_windowsform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F65A93A-7040-4E77-9EBF-E87904AE506F}|Clase2_WindowsForm\\Clase2_WindowsForm.csproj|solutionrelative:clase2_windowsform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\belen\\Documents\\Jesica\\Unlam\\workspace-vsc\\practicas-ext-programacion-web3\\Clase2\\API_Licencia\\Program.cs",
+              "RelativeDocumentMoniker": "API_Licencia\\Program.cs",
+              "ToolTip": "C:\\Users\\belen\\Documents\\Jesica\\Unlam\\workspace-vsc\\practicas-ext-programacion-web3\\Clase2\\API_Licencia\\Program.cs",
+              "RelativeToolTip": "API_Licencia\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T04:25:15.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LicenciaServicio.cs",
+              "DocumentMoniker": "C:\\Users\\belen\\Documents\\Jesica\\Unlam\\workspace-vsc\\practicas-ext-programacion-web3\\Clase2\\Servicio\\LicenciaServicio.cs",
+              "RelativeDocumentMoniker": "Servicio\\LicenciaServicio.cs",
+              "ToolTip": "C:\\Users\\belen\\Documents\\Jesica\\Unlam\\workspace-vsc\\practicas-ext-programacion-web3\\Clase2\\Servicio\\LicenciaServicio.cs",
+              "RelativeToolTip": "Servicio\\LicenciaServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T03:53:38.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\belen\\Documents\\Jesica\\Unlam\\workspace-vsc\\practicas-ext-programacion-web3\\Clase2\\Clase2_WindowsForm\\Form1.cs",
+              "RelativeDocumentMoniker": "Clase2_WindowsForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\belen\\Documents\\Jesica\\Unlam\\workspace-vsc\\practicas-ext-programacion-web3\\Clase2\\Clase2_WindowsForm\\Form1.cs",
+              "RelativeToolTip": "Clase2_WindowsForm\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T07:14:23.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Licencia.cs",
+              "DocumentMoniker": "C:\\Users\\belen\\Documents\\Jesica\\Unlam\\workspace-vsc\\practicas-ext-programacion-web3\\Clase2\\Entidad\\Licencia.cs",
+              "RelativeDocumentMoniker": "Entidad\\Licencia.cs",
+              "ToolTip": "C:\\Users\\belen\\Documents\\Jesica\\Unlam\\workspace-vsc\\practicas-ext-programacion-web3\\Clase2\\Entidad\\Licencia.cs",
+              "RelativeToolTip": "Entidad\\Licencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T01:04:41.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\belen\\Documents\\Jesica\\Unlam\\workspace-vsc\\practicas-ext-programacion-web3\\Clase2\\Clase2_WindowsForm\\Form1.cs",
+              "RelativeDocumentMoniker": "Clase2_WindowsForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\belen\\Documents\\Jesica\\Unlam\\workspace-vsc\\practicas-ext-programacion-web3\\Clase2\\Clase2_WindowsForm\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Clase2_WindowsForm\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:13:43.513Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\belen\\Documents\\Jesica\\Unlam\\workspace-vsc\\practicas-ext-programacion-web3\\Clase2\\API_Licencia\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "API_Licencia\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\belen\\Documents\\Jesica\\Unlam\\workspace-vsc\\practicas-ext-programacion-web3\\Clase2\\API_Licencia\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "API_Licencia\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T04:25:26.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\belen\\Documents\\Jesica\\Unlam\\workspace-vsc\\practicas-ext-programacion-web3\\Clase2\\Clase2_WindowsForm\\Program.cs",
+              "RelativeDocumentMoniker": "Clase2_WindowsForm\\Program.cs",
+              "ToolTip": "C:\\Users\\belen\\Documents\\Jesica\\Unlam\\workspace-vsc\\practicas-ext-programacion-web3\\Clase2\\Clase2_WindowsForm\\Program.cs",
+              "RelativeToolTip": "Clase2_WindowsForm\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:45:36.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\belen\\Documents\\Jesica\\Unlam\\workspace-vsc\\practicas-ext-programacion-web3\\Clase2\\Clase2_WindowsForm\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Clase2_WindowsForm\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\belen\\Documents\\Jesica\\Unlam\\workspace-vsc\\practicas-ext-programacion-web3\\Clase2\\Clase2_WindowsForm\\Form1.Designer.cs",
+              "RelativeToolTip": "Clase2_WindowsForm\\Form1.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAMBkwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T06:10:37.286Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

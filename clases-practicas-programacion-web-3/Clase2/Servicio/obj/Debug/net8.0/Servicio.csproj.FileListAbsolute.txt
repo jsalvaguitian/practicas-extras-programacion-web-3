@@ -1,0 +1,16 @@
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Clase2\Servicio\bin\Debug\net8.0\Servicio.deps.json
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Clase2\Servicio\bin\Debug\net8.0\Servicio.dll
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Clase2\Servicio\bin\Debug\net8.0\Servicio.pdb
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Clase2\Servicio\bin\Debug\net8.0\Entidad.dll
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Clase2\Servicio\bin\Debug\net8.0\Entidad.pdb
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Clase2\Servicio\obj\Debug\net8.0\Servicio.csproj.AssemblyReference.cache
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Clase2\Servicio\obj\Debug\net8.0\Servicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Clase2\Servicio\obj\Debug\net8.0\Servicio.AssemblyInfoInputs.cache
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Clase2\Servicio\obj\Debug\net8.0\Servicio.AssemblyInfo.cs
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Clase2\Servicio\obj\Debug\net8.0\Servicio.csproj.CoreCompileInputs.cache
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Clase2\Servicio\obj\Debug\net8.0\Servicio.sourcelink.json
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Clase2\Servicio\obj\Debug\net8.0\Servicio.csproj.Up2Date
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Clase2\Servicio\obj\Debug\net8.0\Servicio.dll
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Clase2\Servicio\obj\Debug\net8.0\refint\Servicio.dll
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Clase2\Servicio\obj\Debug\net8.0\Servicio.pdb
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Clase2\Servicio\obj\Debug\net8.0\ref\Servicio.dll

@@ -1,0 +1,12 @@
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Clase2\Entidad\bin\Debug\net8.0\Entidad.deps.json
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Clase2\Entidad\bin\Debug\net8.0\Entidad.dll
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Clase2\Entidad\bin\Debug\net8.0\Entidad.pdb
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Clase2\Entidad\obj\Debug\net8.0\Entidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Clase2\Entidad\obj\Debug\net8.0\Entidad.AssemblyInfoInputs.cache
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Clase2\Entidad\obj\Debug\net8.0\Entidad.AssemblyInfo.cs
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Clase2\Entidad\obj\Debug\net8.0\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Clase2\Entidad\obj\Debug\net8.0\Entidad.sourcelink.json
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Clase2\Entidad\obj\Debug\net8.0\Entidad.dll
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Clase2\Entidad\obj\Debug\net8.0\refint\Entidad.dll
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Clase2\Entidad\obj\Debug\net8.0\Entidad.pdb
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\Clase2\Entidad\obj\Debug\net8.0\ref\Entidad.dll
