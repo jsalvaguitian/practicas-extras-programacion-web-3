@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37111.16 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mvc", "mvc\mvc.csproj", "{17E159A1-1726-4DD9-87F3-E886523FB820}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{7BA461B8-A67F-46AD-B30B-5ED32840BDE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Servicios", "Servicios\Servicios.csproj", "{C82A8D1F-E523-47DD-BD60-649CB49C2575}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17E159A1-1726-4DD9-87F3-E886523FB820}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17E159A1-1726-4DD9-87F3-E886523FB820}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17E159A1-1726-4DD9-87F3-E886523FB820}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17E159A1-1726-4DD9-87F3-E886523FB820}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BA461B8-A67F-46AD-B30B-5ED32840BDE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BA461B8-A67F-46AD-B30B-5ED32840BDE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BA461B8-A67F-46AD-B30B-5ED32840BDE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BA461B8-A67F-46AD-B30B-5ED32840BDE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C82A8D1F-E523-47DD-BD60-649CB49C2575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C82A8D1F-E523-47DD-BD60-649CB49C2575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C82A8D1F-E523-47DD-BD60-649CB49C2575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C82A8D1F-E523-47DD-BD60-649CB49C2575}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62350B57-E07D-4FBE-AC68-CB32F42C5FB7}
+	EndGlobalSection
+EndGlobal
