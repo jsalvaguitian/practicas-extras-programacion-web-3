@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5VSW3L+N8/I=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\belen\\Documents\\Jesica\\Unlam\\workspace-vsc\\practicas-ext-programacion-web3\\clases-practicas-programacion-web-3\\Clase4\\clase4.poo\\clase4.poo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\belen\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.5\\microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
+    "C:\\Users\\belen\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

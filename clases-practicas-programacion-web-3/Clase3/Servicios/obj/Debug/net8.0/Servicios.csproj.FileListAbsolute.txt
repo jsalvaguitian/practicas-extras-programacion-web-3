@@ -1,0 +1,16 @@
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\clases-practicas-programacion-web-3\Clase3\Servicios\bin\Debug\net8.0\Servicios.deps.json
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\clases-practicas-programacion-web-3\Clase3\Servicios\bin\Debug\net8.0\Servicios.dll
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\clases-practicas-programacion-web-3\Clase3\Servicios\bin\Debug\net8.0\Servicios.pdb
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\clases-practicas-programacion-web-3\Clase3\Servicios\bin\Debug\net8.0\Entidades.dll
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\clases-practicas-programacion-web-3\Clase3\Servicios\bin\Debug\net8.0\Entidades.pdb
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\clases-practicas-programacion-web-3\Clase3\Servicios\obj\Debug\net8.0\Servicios.csproj.AssemblyReference.cache
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\clases-practicas-programacion-web-3\Clase3\Servicios\obj\Debug\net8.0\Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\clases-practicas-programacion-web-3\Clase3\Servicios\obj\Debug\net8.0\Servicios.AssemblyInfoInputs.cache
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\clases-practicas-programacion-web-3\Clase3\Servicios\obj\Debug\net8.0\Servicios.AssemblyInfo.cs
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\clases-practicas-programacion-web-3\Clase3\Servicios\obj\Debug\net8.0\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\clases-practicas-programacion-web-3\Clase3\Servicios\obj\Debug\net8.0\Servicios.sourcelink.json
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\clases-practicas-programacion-web-3\Clase3\Servicios\obj\Debug\net8.0\Servicios.csproj.Up2Date
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\clases-practicas-programacion-web-3\Clase3\Servicios\obj\Debug\net8.0\Servicios.dll
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\clases-practicas-programacion-web-3\Clase3\Servicios\obj\Debug\net8.0\refint\Servicios.dll
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\clases-practicas-programacion-web-3\Clase3\Servicios\obj\Debug\net8.0\Servicios.pdb
+C:\Users\belen\Documents\Jesica\Unlam\workspace-vsc\practicas-ext-programacion-web3\clases-practicas-programacion-web-3\Clase3\Servicios\obj\Debug\net8.0\ref\Servicios.dll
